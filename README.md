@@ -11,7 +11,7 @@ CoinCounter принимает на вход фотографию с изобр�
 Выход модели:
 ![alt text](images/output.png)
 
-#### [Опробовать модель](https://huggingface.co/spaces/ytkoa/CoinCounter)
+## [Опробовать модель](https://huggingface.co/spaces/ytkoa/CoinCounter)
 
 ## Описание файлов
 
